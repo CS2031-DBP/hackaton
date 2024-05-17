@@ -1,6 +1,6 @@
 # Sistema de Reserva de Salones 📅✨
 
-## Califacion 
+## Calificación 
 
 La evaluación se realizará mostrando el funcionamiento de los endpoints en vivo a uno de los miembros del jurado. Deberán crear sus endpoints en Postman para testear la funcionalidad. Solo si se demuestra la funcionalidad completa de todo el sistema se otorgará el puntaje completo.
 
