@@ -32,7 +32,7 @@ Además, se incluirá la funcionalidad de autenticación (registro e inicio de s
 
 ## Diagrama de Clases con Mermaid 📚
 
-mermaid
+```mermaid
 classDiagram
     class Usuario {
         +int idUsuario
@@ -73,7 +73,7 @@ classDiagram
     Etiqueta "1" --> "0..*" SalonEtiqueta : categoriza
     Reserva "*" --> "1" Usuario : pertenece
     Reserva "*" --> "1" Salon : pertenece
-
+```
 
 ## Funcionalidades 🌟
 
